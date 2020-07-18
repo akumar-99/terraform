@@ -2,10 +2,10 @@
 
 Clone the repository
 
-> terraform init <dir name>
+> terraform init \<dir name\>
 
-> terraform apply <dir name>
+> terraform apply \<dir name\>
 
 To destroy,
 
-> terraform destroy <dir name>
+> terraform destroy \<dir name\>
