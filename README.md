@@ -1,11 +1,11 @@
 # terraform
 
-Download any file you wish to run
+Clone the repository
 
-> terraform init
+> terraform init <dir name>
 
-> terraform apply
+> terraform apply <dir name>
 
 To destroy,
 
-> terraform destroy
+> terraform destroy <dir name>
